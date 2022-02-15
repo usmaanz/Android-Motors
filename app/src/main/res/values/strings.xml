@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Motors</string>
+    <string name="empty_result">No results found</string>
+    <string name="button_search">Search</string>
+    <string name="label_make">Make</string>
+    <string name="label_model">Model</string>
+    <string name="label_year">Year</string>
+    <string name="icon_arrow">Icon arrow</string>
+</resources>
