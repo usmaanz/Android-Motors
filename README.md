@@ -1,3 +1,6 @@
+![Screenshot 2022-02-15 at 13 27 49](https://user-images.githubusercontent.com/8617849/154071435-f7ac32b2-62e6-4df7-a353-8cbec910cc8d.png)
+
+
 # Android-Motors
 A small application written using JetPack Compose to fetch Cars and display them on the UI.
 
